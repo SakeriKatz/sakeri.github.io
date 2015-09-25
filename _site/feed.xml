@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sakeri Katz</title>
+    <link></link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Games. Photography. Voice. Writing. Code.</description>
+    <language>en-us</language>
+    <pubDate>Fri, 25 Sep 2015 20:09:57 +0000</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2015 20:09:57 +0000</lastBuildDate>
+
+    
+      <item>
+        <title>Hello there!</title>
+        <link>/2015/09/15/hello-there</link>
+        <pubDate>Tue, 15 Sep 2015 00:00:00 +0000</pubDate>
+        <author>Sakeri Katz</author>
+        <description>&lt;p&gt;Thanks for dropping by!  This site will be a mash of musings, tutorials, code snippets, and various visual and audio uploads by myself.&lt;/p&gt;
+
+&lt;p&gt;Currently I&amp;#39;m working on an API and frontend that will eventually replace this website - and powering a few others.  This project is currently nicknamed Momoiro API (&amp;#39;pink&amp;#39; in Romaji).&lt;/p&gt;
+
+&lt;p&gt;Other projects I&amp;#39;m working on include creating gameplay content (starting with KHOLAT, Amnesia, EVE Online and Star Wars - The Old Republic), recording some narration and a rendition of the Doctor Who theme.&lt;/p&gt;
+
+&lt;p&gt;This no doubt says quite a bit about me - that I&amp;#39;m something of a nerd... Which would be quite true.  I&amp;#39;m proud of it ;)&lt;/p&gt;
+</description>
+      </item>
+    
+
+  </channel>
+</rss>
